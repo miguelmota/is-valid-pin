@@ -1,0 +1,31 @@
+{
+  "name": "is-valid-pin",
+  "version": "0.0.1",
+  "description": "Validate pin number",
+  "main": "is-valid-pin.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/is-valid-pin"
+  },
+  "keywords": [
+    "validate",
+    "validator",
+    "number",
+    "pin"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/is-valid-pin/issues"
+  },
+  "homepage": "https://github.com/miguelmota/is-valid-pin",
+  "dependencies": {
+    "tape": "^3.0.3"
+  }
+}
